@@ -1,0 +1,9 @@
+
+######################
+# VS Generated Files #
+######################
+*.db.lcok
+*.ide
+*.ide-shm
+*.ide-wal
+*.vs/
